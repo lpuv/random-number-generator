@@ -1,0 +1,10 @@
+{
+  "name": "random-n-g",
+  "version": "1.0.0",
+  "description": "A simple number generator.",
+  "main": "index.js",
+  "repository": "https://github.com/gamer4life1/random-number-generator.git",
+  "author": "Gamer4Life Puvilland <uyenwontanswer@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
